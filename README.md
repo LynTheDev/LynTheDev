@@ -5,10 +5,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/omoNattie/omoNattie/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Heya! Im Natalie!<br>I'm a webdeveloper mostly, but I do other things aswell, such as discord bots!<br><br>Contact me at:<br>omonattiebusiness@gmail.com</p>
 
 ###

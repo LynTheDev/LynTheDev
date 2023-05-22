@@ -6,6 +6,7 @@
 ###
 
 <p align="left">Heya! Im Natalie, or Omo, depends.
+
 ###
 
 <p align="center">- Web Development Things -</p>

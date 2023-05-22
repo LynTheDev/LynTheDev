@@ -5,8 +5,7 @@
 
 ###
 
-<p align="left">Heya! Im Natalie!<br>I'm a webdeveloper mostly, but I do other things aswell, such as discord bots!<br><br>Contact me at:<br>omonattiebusiness@gmail.com</p>
-
+<p align="left">Heya! Im Natalie, or Omo, depends.
 ###
 
 <p align="center">- Web Development Things -</p>

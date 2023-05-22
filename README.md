@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Heya! Im Natalie, or Omo, depends.
+<p align="center">Heya! Im Natalie, or Omo, depends.
 
 ###
 
